@@ -32,19 +32,19 @@ Full Stack Engineer focused on building fast, accessible web apps with React/Nex
 
 ## Featured Projects
 - **AI Interview Platform** 
-Real-time AI interview practice with voice interaction and live transcription.
-Next.js · TypeScript · OpenAI · Vapi SDK · Vercel
-Repo: https://github.com/Praharsh13/Interview-AI · Demo: interview-ai-ten-iota.vercel.app
+*Real-time AI interview practice with voice interaction and live transcription.*
+*Next.js · TypeScript · OpenAI · Vapi SDK · Vercel*
+**Repo:** https://github.com/Praharsh13/Interview-AI · **Demo:** interview-ai-ten-iota.vercel.app
 
 - **Unified Movie App**   
-Full-stack movie discovery platform with secure authentication and third-party integrations.
-React · Node.js · Express · JWT · APIs
-Repo: https://github.com/Praharsh13/Unified-Movie-App  · Demo: unified-movie-app.vercel.app
+*Full-stack movie discovery platform with secure authentication and third-party integrations.*
+*React · Node.js · Express · JWT · APIs*
+**Repo:** https://github.com/Praharsh13/Unified-Movie-App  · **Demo:** unified-movie-app.vercel.app
 
 - **Developer Profile App** 
-Modern portfolio and profile management system with clean, scalable UI components.
-React · Node.js · MongoDB · shadcn/ui · REST
-Repo: https://github.com/Praharsh13/My-Profile · Demo: praharshpranjal.co.uk/profile/
+*Modern portfolio and profile management system with clean, scalable UI components.*
+*React · Node.js · MongoDB · shadcn/ui · REST*
+**Repo:** https://github.com/Praharsh13/My-Profile · **Demo:** praharshpranjal.co.uk/profile/
 
 ---
 
