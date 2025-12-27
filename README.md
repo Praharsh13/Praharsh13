@@ -68,8 +68,6 @@ Full Stack Engineer focused on building fast, accessible web apps with React/Nex
 
 ---
 
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praharsh13&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
 
   
 
