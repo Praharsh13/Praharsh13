@@ -48,7 +48,28 @@ Full Stack Engineer focused on building fast, accessible web apps with React/Nex
 
 ---
 
+## How I approach engineering
+- Performance first, measure before optimising
+- Clean, readable code over clever abstractions
+- Build features end-to-end, not just isolated components
+
+---
+
+## Highlights
+- Improved frontend performance by ~40% through component optimisation and better state management
+- Built and deployed multiple full-stack applications used by real users
+- Comfortable owning features from UI to API and deployment
+
+---
+
 ## What I’m working on
 - Building fast, accessible interfaces with a strong focus on performance and UX
 - Shipping production-ready features end-to-end, from UI to APIs
+
+---
+
+## GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praharsh13&show_icons=true&theme=dark&hide_border=true)
+
+  
 
